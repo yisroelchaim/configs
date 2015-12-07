@@ -12,7 +12,6 @@
         "arrow-spacing": 2,
         "block-scoped-var": 2,
         "callback-return": 2,
-        "camelcase": [2, {"properties": "always"}],
         "computed-property-spacing": [2, "never"],
         "curly": [2, "multi"],
         "default-case": 2,
